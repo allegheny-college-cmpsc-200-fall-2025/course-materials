@@ -24,7 +24,7 @@
 |Day(s) of Week            |Time          |Purpose     |Location                        |
 |--------------------------|--------------|------------|--------------------------------|
 |Monday, Wednesday, Friday |11:00 - 11:50 |Activities  |Alden 101                       |
-|Friday                    |14:30 - 16:30 |Lab session |Alden 101                       |
+|Friday                    |14:30 - 16:00 |Lab session |Alden 101                       |
 
 
 ### Contact
@@ -80,7 +80,7 @@ This course relies on your regular use of:
 
 This course is centered around using hardware to provide a common platform for students. Early in the semester, you will be provided with two hardware platforms which we will use to complete activities and assignments:
 
-* the LPC (Learning Paper Computer)
+* the [PaperPC](https://github.com/Paperdyne/PaperPC)
 * the Raspberry Pi Pico W
 
 Assignments will require use of any devices provided and evaluation will be benchmarked to performance on hardware systems, _not necessarily personal computers (PCs)_. While you will use your PCs to program the devices, part of our work this semester is to understand the limitations and opportunities of environments which require understanding physical system topology and performance.
@@ -96,7 +96,7 @@ You should consider the information provided here the basic "givens" of the cour
 
 #### Assignments
 
-All course assignments are assigned and evaluated using the GitHub platform. I will only assess work deposited there. 
+All course assignments are assigned and evaluated using the GitHub platform. I will only assess work reposited there. 
 
 #### Course project
 
