@@ -224,6 +224,15 @@ and the _Compass_.
 This agreement operates on the understanding that circumstances may arise which interfere with completing assignments on time. 
 Should you need more time to complete work, arrange an assignment extension with the instructor.
 
+#### Use of department "tokens"
+
+At the start of the semester, each student enrolled in the class owns three (3) "tokens." Tokens in this course serve the purpose
+of extending an assignment due date by a week. Use of a token _cannot_ apply to the course project. 
+
+Tokens must be used _proactively_, meaning that they must be used _in anticipation_ of a deadline rather than retroactively. For example, 
+if an assignment is due on a Sunday night, tokens must be used _before_ the due date to extend the upcoming deadline rather than "reopen"
+an assignment's submission window.
+
 #### Assignment "bugs" and impact on grading
 
 * In the event that there are bugs with grader criteria, the instructor will assess assignment completion status with known issues in mind with the caveats that:
