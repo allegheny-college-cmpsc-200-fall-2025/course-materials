@@ -241,7 +241,36 @@ an assignment's submission window.
 
 ## Policies
 
-### Illness and attendance
+### Attendance
+
+In the Allegheny College Department of Computer and Information Science (CIS), students are expected to come to class prepared, on time, and to stay engaged for the duration of the class period. This includes both class and lab sessions. This behavior is core to our shared departmental values and is in addition to the college’s attendance policy.
+
+#### Preparedness
+
+Coming to class prepared means coming with everything you need to engage in a class session. To satisfy basic expectations of CIS courses, this means, at minimum, that students must:arrive at class with a fully charged laptop bring their laptop charger or a battery back so as to ensure that their laptop works throughout the entire class session complete any pre-session work such as readings and preparatory assignments
+
+#### Attendance and Being “On Time”
+
+The method of tracking attendance is at the professor’s discretion, and may include (but is not limited to) roll call, visually confirming student presence, and entrance/exit tickets. 
+
+One missed class or lab session counts as one absence. Coming to class/lab late, leaving early, or missing a large portion of a class/lab session will result in your being marked as “late” to class. Coming to class/lab unprepared may also result in being marked “late”. Being marked “late” to class three times during the course of a semester is equal to one absence.
+
+Students can have a certain number of absences without any impact to their grade. These accommodations are meant to cover illness and emergency, so you should always come to class if you are able to do so.
+
+The exact number of permitted absences may vary by course. As a general guideline, students cannot miss more than two weeks of class in total throughout the academic semester without receiving a letter grade reduction. For your course’s attendance policy, see the individual course syllabus.
+
+#### Engagement 
+
+The term “engagement” or our expectation that students remain “engaged” can mean many things, often varying by course. Baseline behaviors that indicate engagement include:
+
+* participation in class activities and discussions
+* defined contribution to class sessions in full-class or group discussions
+* note-taking (physical or digital)
+* participating in course session attendance requirements
+* not participating in non-course related activities
+* not completing non-course related projects
+
+#### Illness and attendance
 
 The accommodations provided by tokens and permitted absences are meant to cover extenuating circumstances like illness, emergency, and work. However, if you have a contagious illness like COVID-19, the flu, or a cold, you should not come to class. If you have expended all your absences and tokens and are still sick with a contagious illness, you may contact your professor about options.  If your symptoms are mild or you are recovering from a respiratory illness, we recommend that you wear a mask to class.
 
