@@ -137,20 +137,22 @@ The above statement, of course, also applies to solutions derived from discussio
 
 #### AI tools
 
-I fully expect that many of you will use tools like OpenAI's GPT code completion, GitHub Co-pilot, and others on assignments. These are 
-professional, industry-grade tools. However, there is a marked difference between implementing the solutions these tools suggest and 
-copying their suggestions wholesale. In many cases, these tools will lead you to either incorrect or significantly advanced answers. As
-one might say in the consumer trade, _caveat emptor_.
+CIS department faculty recognize that use of artificial intelligence (AI) tools such as Github Copilot, GPT, and Claude has emerged as a professional skill set in the knowledge and practices our coursework covers. Department faculty maintain a permissive attitude toward these tools by recognizing that you can and will use them. We do so considering the following position:
 
-One of the goals of your time in this class, much less at Allegheny, is to learn how the subjects discussed in classes relate and impact 
-your future work. While there are many ways that your assignments will test your understanding of the concepts underlying our coursework,
-I ask a few of things from you, completely aware that you are fully on your own honor with any of these:
+As a skill, using and correctly applying the results derived from AI tools is both context-based and discretion-worthy: these tools do not always provide correct or workable answers. Industry veterans and expert users run into many situations in which the responses these algorithms provide are plainly incorrect or unfit. In the context of department coursework, accepting an AI-generated answer wholesale or as a small part of an assignment may lead to less-than-satisfactory results in the context of both learning and deliverable quality.
 
-* be prepared to explain a detailed understanding of the code you're offering for review, documenting where and how you used an assistant tool in:
-  * technical reports
-  * code comments, specifically labeling the portions of code derived from use of AI tools
-* consider how you might improve an assistant-generated solution, documenting this in reports and implementing your improvements in code
-* keep an operating assumption that I'm not reviewing your solutions for a "gotcha"; I only assume the best of your effort
+As a learner, your time at Allegheny is meant to impart the knowledge that enables you to judge the fitness of a given approach, regardless of its origin. In the same way that CIS students employ compilers, integrated development environments, and refactoring tools, the use of an AI tool is not a substitute for developing the fundamental skills that develop this awareness. Importantly, research demonstrates that relying on generated responses reduces a learner’s ability to durably learn these lessons and skills, suggesting that you should cautiously embrace the use of AI when you complete CIS coursework [Chen et al., 2024].
+
+In courses organized around fundamentals, instructors may prohibit students from using these tools or require students to use specific AI tools in order to teach the basic skills and concepts that students need to know to be successful in the field of CIS. Even in upper-level courses, assignments may feature requirements that decrease the applicability of a response generated with AI, thereby requiring you to thoughtfully consider the benefits, challenges, and fundamental limitations associated with the use of AI tools to generate content.
+
+If you are able to use the output of AI tools in your assignments, be prepared to support their use in ways including but not limited to:
+
+citing instances where code has been generated and clearly defining the tools that generated them
+providing descriptive commentary (including prompts) around generated code either in in-line comments or assignment documentation
+considering improvements to the generated code, documenting specifics about your modifications and reasoning behind them
+revising the generated code or documentation so as to ensure that it is more suitable for the purposes of your assignment
+
+Faculty do not intend these requirements as a “gotcha”; we assume the best of your effort. These guidelines follow industry best practices and prepare you for integrating current and future generations of these AI technologies into your computational practice.
 
 ### Classroom ethics
 
