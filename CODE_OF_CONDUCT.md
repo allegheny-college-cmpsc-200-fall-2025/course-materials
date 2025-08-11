@@ -255,7 +255,7 @@ The method of tracking attendance is at the professor’s discretion, and may in
 
 One missed class or lab session counts as one absence. Coming to class/lab late, leaving early, or missing a large portion of a class/lab session will result in your being marked as “late” to class. Coming to class/lab unprepared may also result in being marked “late”. Being marked “late” to class three times during the course of a semester is equal to one absence.
 
-Students can have a certain number of absences without any impact to their grade. These accommodations are meant to cover illness and emergency, so you should always come to class if you are able to do so.
+**These accommodations are meant to cover illness and emergency, so you should always come to class if you are able to do so.**
 
 The exact number of permitted absences may vary by course. As a general guideline, students cannot miss more than two weeks of class in total throughout the academic semester without receiving a letter grade reduction. For your course’s attendance policy, see the individual course syllabus.
 
