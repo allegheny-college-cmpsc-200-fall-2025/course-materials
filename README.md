@@ -149,7 +149,7 @@ I ask a few of things from you, completely aware that you are fully on your own 
 * be prepared to explain a detailed understanding of the code you're offering for review, documenting where and how you used an assistant tool in:
   * technical reports
   * code comments, specifically labeling the portions of code derived from use of AI tools
-* consider how you might improve an assitant-generated solution, documenting this in reports and implementing your improvements in code
+* consider how you might improve an assistant-generated solution, documenting this in reports and implementing your improvements in code
 * keep an operating assumption that I'm not reviewing your solutions for a "gotcha"; I only assume the best of your effort
 
 ### Classroom ethics
