@@ -101,12 +101,6 @@ All course assignments are assigned and evaluated using the GitHub platform. I w
 This project offers you the opportunity to develop a hardware-based system directed by your interest. This project has several
 distinct phases and components discussed in the project's assignment sheet, to be issued later in the semester.
 
-### Course preparation
-
-I expect students to arrive to class prepared. Here, "prepared" means having completed reading assignments, compiled questions, 
-and being ready to engage thoughtfully with course material. In order to assist students' preparedness efforts, I will provide a 
-[schedule](https://chompe.rs/200-schedule) with assignments and accompanying materials or readings.
-
 ### Allegheny College Statement of Community
 
 Allegheny College also expects students and faculty to act according to its Statement of Community:
