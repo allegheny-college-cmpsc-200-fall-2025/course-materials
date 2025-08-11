@@ -245,7 +245,7 @@ an assignment's submission window.
 
 The accommodations provided by tokens and permitted absences are meant to cover extenuating circumstances like illness, emergency, and work. However, if you have a contagious illness like COVID-19, the flu, or a cold, you should not come to class. If you have expended all your absences and tokens and are still sick with a contagious illness, you may contact your professor about options.  If your symptoms are mild or you are recovering from a respiratory illness, we recommend that you wear a mask to class.
 
-Professor must be informed of all athletic obligations at the beginning of the semester, or with as much notice as possible. If you are feeling healthy and well, you should make every effort to come to class on time and to complete assignments, rather than using absences and tokens you may need later. 
+Professors must be informed of all athletic obligations at the beginning of the semester, or with as much notice as possible. If you are feeling healthy and well, you should make every effort to come to class on time and to complete assignments, rather than using absences and tokens you may need later. 
 
 These no-questions-asked accommodations are meant to protect student privacy, and to remove the additional effort of acquiring documentation under duress of illness or emergency. In addition, they allow the professor to remain focused on teaching rather than adjudicating excuses.
 
