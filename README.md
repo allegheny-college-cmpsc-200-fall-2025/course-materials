@@ -147,10 +147,10 @@ In courses organized around fundamentals, instructors may prohibit students from
 
 If you are able to use the output of AI tools in your assignments, be prepared to support their use in ways including but not limited to:
 
-citing instances where code has been generated and clearly defining the tools that generated them
-providing descriptive commentary (including prompts) around generated code either in in-line comments or assignment documentation
-considering improvements to the generated code, documenting specifics about your modifications and reasoning behind them
-revising the generated code or documentation so as to ensure that it is more suitable for the purposes of your assignment
+* citing instances where code has been generated and clearly defining the tools that generated them
+* providing descriptive commentary (including prompts) around generated code either in in-line comments or assignment documentation
+* considering improvements to the generated code, documenting specifics about your modifications and reasoning behind them
+* revising the generated code or documentation so as to ensure that it is more suitable for the purposes of your assignment
 
 Faculty do not intend these requirements as a “gotcha”; we assume the best of your effort. These guidelines follow industry best practices and prepare you for integrating current and future generations of these AI technologies into your computational practice.
 
