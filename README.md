@@ -65,9 +65,7 @@ laptop in this course; a limited number of laptops are available for use during 
 
 #### Textbook
 
-This course uses a free, open access textbook, findable at the link below. I suggest you bookmark it.
-
-* [Matthews, Newhall, and Webb, _Dive into Systems_](https://diveintosystems.org/book/)
+This course does not use a standard textbook. Any additional materials required for the course will be provided by the instructor.
 
 #### Platforms
 
