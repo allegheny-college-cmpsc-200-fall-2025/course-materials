@@ -93,7 +93,9 @@ The above defines the conditions in which I find it useful to challenge you to g
 but says nothing about why I choose to implement a labor-based contract in this course. Much of what the assignments 
 directly test through specifications defined through GatorGrader (our automated grading system) cover the basic knowledge. 
 This level of understanding represents the _average_ of what the industry would expect those new to the field to know about 
-computer systems architecture and functionality.
+computer systems architecture and functionality. Working to achieve an average outcome is rewarded with average results.
+Going above and beyond to discover _new_ knowledge is what allowed early computer architects to develop the devices that
+now power our lives. So, empower yourself to go equally as far beyond to make the same discoveries and deepend your learning.
 
 As such, the covenants of this contract are here to reassure and protect you from a fear of failure. Consistent and earnest 
 effort provides this safety net. There are ways for you to essentially "choose your own adventure" in the evaluation of this 
