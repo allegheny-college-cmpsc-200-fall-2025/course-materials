@@ -170,8 +170,8 @@ If you are able to use the output of AI tools in your assignments, be prepared t
 Faculty do not intend these requirements as a “gotcha”; we assume the best of your effort. These guidelines follow industry 
 best practices and prepare you for integrating current and future generations of these AI technologies into your computational practice.
 
-> <sup>1</sup> Binglin Chen, Colleen M. Lewis, Matthew West, and Craig Zilles. 2024. Plagiarism in the Age of Generative AI: Cheating Method Change and Learning Loss in an Intro to CS Course. In Proceedings of
-> the Eleventh ACM Conference on Learning @ Scale (L@S '24). Association for Computing Machinery, New York, NY, USA, 75–85. https://doi.org/10.1145/3657604.36620
+> <sup>1</sup> Binglin Chen, Colleen M. Lewis, Matthew West, and Craig Zilles. 2024. Plagiarism in the Age of Generative AI: Cheating Method Change and Learning Loss in an Intro to CS Course. In _Proceedings of
+> the Eleventh ACM Conference on Learning @ Scale (L@S '24)_. Association for Computing Machinery, New York, NY, USA, 75–85. https://doi.org/10.1145/3657604.36620
 
 ### Classroom ethics
 
