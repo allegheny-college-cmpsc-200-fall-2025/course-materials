@@ -190,11 +190,11 @@ or go to [this schedule for Technical Leaders' office hours](https://www.cs.alle
 
 #### Assistance outside of the course
 
-If you find yourself in difficult circumstances which affect your ability to participate in or complete course work, let me know immediately. Full stop.
+If you find yourself in difficult circumstances which affect your ability to participate in or complete course work, let your instructor know immediately. Full stop.
 
-Do not wait until the end of the semester. 
+Do not wait until the end of the semester. Students who don't communicate issues often find themselves in preventable no-win situations. 
 
-*It is part of your instructor's job* to make sure that students receive the assistance they need. Do not hesitate to let me know if there is anything your instructor can do 
+*It is part of your instructor's job* to make sure that students receive the assistance they need. Do not hesitate to communicate anything your instructor can do 
 with respect to your ability to handle your work. This is especially true of our current circumstances. Again, be reminded -- __**it is part of your instructor's job**__ 
 to help you access Allegheny College resources that will enable your safety and success.
 
