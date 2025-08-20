@@ -100,7 +100,7 @@ You should consider the information provided here the basic "givens" of the cour
 
 #### Assignments
 
-All course assignments are assigned and evaluated using the GitHub platform. I will only assess work reposited there. 
+All course assignments are assigned and evaluated using the GitHub platform. Your instructor will only assess work reposited there. 
 
 #### Course project
 
@@ -175,7 +175,7 @@ best practices and prepare you for integrating current and future generations of
 
 ### Classroom ethics
 
-The discipline of computer science, like many others, encourages its members to act according to discipline-specific ethics. I encourage you 
+The discipline of computer science, like many others, encourages its members to act according to discipline-specific ethics. Your instructor encourages you 
 to take time to review the Association for Computing Machinery (ACM) [Code of Ethics](https://www.acm.org/binaries/content/assets/about/acm-code-of-ethics-booklet.pdf).
 
 ### Seeking assistance
@@ -194,8 +194,8 @@ If you find yourself in difficult circumstances which affect your ability to par
 
 Do not wait until the end of the semester. 
 
-*It is part of my job* to make sure that students receive the assistance they need. Do not hesitate to let me know if there is anything I can do 
-with respect to your ability to handle your work. This is especially true of our current circumstances. Again, let me remind you -- __**it is part of my job**__ 
+*It is part of your instructor's job* to make sure that students receive the assistance they need. Do not hesitate to let me know if there is anything your instructor can do 
+with respect to your ability to handle your work. This is especially true of our current circumstances. Again, be reminded -- __**it is part of your instructor's job**__ 
 to help you access Allegheny College resources that will enable your safety and success.
 
 In many situations, the following list of resources may help:
