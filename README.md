@@ -76,8 +76,9 @@ This course relies on your regular use of:
 
 #### Hardware
 
-This course is centered around using hardware to provide a common platform for students. Early in the semester, you will be provided with two hardware platforms which we will use to complete activities and assignments:
+This course is centered around using hardware to provide a common platform for students. Over the course of the semester, you will be provided with three hardware platforms which we will use to complete activities and assignments:
 
+* an assortment of integrated circuits and other parts
 * the [PaperPC](https://github.com/Paperdyne/PaperPC)
 * the Raspberry Pi Pico W
 
