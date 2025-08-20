@@ -104,8 +104,11 @@ All course assignments are assigned and evaluated using the GitHub platform. I w
 
 #### Course project
 
-This project offers you the opportunity to develop a hardware-based system directed by your interest. This project has several
-distinct phases and components discussed in the project's assignment sheet, to be issued later in the semester.
+The end-of-semester course project offers a choice: either a hardware- or software-rooted project aimed at exploring
+course concepts beyond their in-class representations. In the closing weeks of the semester, your interest in this
+project must be expressed in the form of a proposal. This proposal should contain an outline of the concept you
+wish to pursue further as well as the key values or principles it tests or extends. The proposal will include several
+unexclusive suggestions to give you a start.
 
 ### Allegheny College Statement of Community
 
