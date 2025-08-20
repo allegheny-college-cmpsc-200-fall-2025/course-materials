@@ -69,22 +69,27 @@ This course does not use a standard textbook. Any additional materials required 
 
 #### Platforms
 
-This course relies on your regular use of:
+Our work relies on your regular use of:
 
 * [GitHub](https://github.com)
 * [Discord](https://discord.com)
 
 #### Hardware
 
-This course is centered around using hardware to provide a common platform for students. Over the course of the semester, you will be provided with three hardware platforms which we will use to complete activities and assignments:
+Learning objectives revolve around using common hardware to provide a uniform platform for students. Over the course of the semester, 
+you will be provided with three hardware platforms which we will use to complete activities and assignments:
 
 * an assortment of integrated circuits and other parts
 * the [PaperPC](https://github.com/Paperdyne/PaperPC)
 * the Raspberry Pi Pico W
 
-Assignments will require use of any devices provided and evaluation will be benchmarked to performance on hardware systems, _not necessarily personal computers (PCs)_. While you will use your PCs to program the devices, part of our work this semester is to understand the limitations and opportunities of environments which require understanding physical system topology and performance.
+Assignments will require use of any devices provided and evaluation will be benchmarked to performance on hardware systems, 
+_not necessarily personal computers (PCs)_. While you will use your PCs to program the devices, part of our work this semester 
+is to understand the limitations and opportunities of environments which require understanding standard physical system 
+topology and performance.
 
-The above statement implies that this hardware, when distributed, is as essential to bring to and prepare for class sessions as our textbook and course platforms.
+The above statement implies that this hardware, when distributed, is as essential to bring to and prepare for class sessions 
+as if it were our textbook and course platforms.
 
 ### Governance and evaluation
 
