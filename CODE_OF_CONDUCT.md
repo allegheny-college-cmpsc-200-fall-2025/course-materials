@@ -118,17 +118,18 @@ higher levels of reward involves exploring the limits and opportunities of the c
 To meet the basic requirements of an assignment, `100%` of the `Fundamentals` level of GatorGrade checks must pass and
 reflective writing must meet the standard defined below.
 
-#### Reflective reports
+#### Reports
 
 All assignments require a form of reflective writing that this course calls "reflective reports." These feature a
 mixture of technical questions that also ask you to reflect on your experience in the context of what you're learning,
 and how you're learning the material (_not necessarily just how you feel about it_). Occasionally, these reports may ask you
-to speculate about how a concept fits with others.
+to speculate about how a concept fits with others. These reports may also require diagrams, which are non-negotiable --
+these diagrams must appear in order to recieve credit for the report.
 
 This course uses the following framework<sup>†</sup> to identify the quality of the writing you do:
 
 | Level          | Description                                                                                 |
-|:---------------|:--------------------------------------------------------------------------------------------|
+|:---------------|:----------------------------------- ---------------------------------------------------------|
 | Non-reflective | A report of facts and other more-or-less obvious details of an assignment.                  |
 | Reflective     | Discusses constructive thoughts or feelings with relation to the material                   |
 | Reasoned       | Explains learner experience of the assignment (thoughts, feelings) with adequate evidence and examples to support claims |
