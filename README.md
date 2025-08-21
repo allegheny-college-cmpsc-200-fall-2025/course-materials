@@ -71,6 +71,7 @@ This course does not use a standard textbook. Any additional materials required 
 
 Our work relies on your regular use of:
 
+* [TinkerCAD](https://www.tinkercad.com/)
 * [GitHub](https://github.com)
 * [Discord](https://discord.com)
 
