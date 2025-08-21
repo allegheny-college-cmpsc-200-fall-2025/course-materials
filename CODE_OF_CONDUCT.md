@@ -129,7 +129,7 @@ these diagrams must appear in order to recieve credit for the report.
 This course uses the following framework<sup>†</sup> to identify the quality of the writing you do:
 
 | Level          | Description                                                                                 |
-|:---------------|:----------------------------------- ---------------------------------------------------------|
+|:---------------|:--------------------------------------------------------------------------------------------|
 | Non-reflective | A report of facts and other more-or-less obvious details of an assignment.                  |
 | Reflective     | Discusses constructive thoughts or feelings with relation to the material                   |
 | Reasoned       | Explains learner experience of the assignment (thoughts, feelings) with adequate evidence and examples to support claims |
