@@ -97,7 +97,8 @@ directly test through specifications defined through GatorGrader (our automated 
 This level of understanding represents the _average_ of what the industry would expect those new to the field to know about 
 computer systems architecture and functionality. Working to achieve an average outcome is rewarded with average results.
 Going above and beyond to discover _new_ knowledge is what allowed early computer architects to develop the devices that
-now power our lives. So, empower yourself to go equally as far beyond to make the same discoveries and deepend your learning.
+now power our lives. Take this an an invitation to empower yourself to go equally as far beyond to make the same discoveries 
+and deepend your engagement with your own learning process.
 
 As such, the covenants of this contract are here to reassure and protect you from a fear of failure. Consistent and earnest 
 effort provides this safety net. There are ways for you to essentially "choose your own adventure" in the evaluation of this 
