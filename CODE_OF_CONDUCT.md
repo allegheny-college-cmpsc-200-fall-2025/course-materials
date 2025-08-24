@@ -160,9 +160,8 @@ relies on the basic knowledge represented by the course's learning objectives. _
 some more-or-less clever ways ("Hacks") which can achieve our ends and demonstrate above-average proficiency
 in applying a given topic.
 
-Each lab assignment will include a "Hack" for you to attempt. You must complete this work on the "hack" branch
-of your repository and pass the grader specific to the functionality and documentation detailed. One completed,
-you will be allowed to merge this into the `main` branch.
+Each lab assignment will include a "Hack" for you to attempt. You must complete this work on the `hack` branch
+of your repository and pass the grader specific to the functionality and documentation detailed.
 
 Writing in a Hack's documentation will be measured against the same rubric for [Reflective writing](#reflective-writing)
 described above.
@@ -180,6 +179,8 @@ The following table describes the letter grade a student can expect given labor 
 | 3            | B            |
 | 2            | B-           |
 | 1            | C+           |
+
+To achieve credit for a given hack, all checks in the `hack` branch for a given assignment must be met.
 
 ### Evaluation penalties
 
