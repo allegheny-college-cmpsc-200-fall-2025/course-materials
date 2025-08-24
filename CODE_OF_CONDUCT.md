@@ -1,8 +1,10 @@
 # CMPSC 200: Course Contract
 
 This document represents the `CMPSC 200` evaluative terms and the ethos that underlies
-them. To anyone who just wants to see the mechanics of the contract,
-[skip to the **Evaluation** section](#evaluation).
+them. By remaining enrolled in this course, you agree to the terms spelled out in this
+document.
+
+To anyone who just wants to see the mechanics of the contract, [skip to the **Evaluation** section](#evaluation).
 
 For anyone who wants a bit of history, read on.
 
