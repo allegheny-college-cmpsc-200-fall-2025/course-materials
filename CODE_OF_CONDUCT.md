@@ -89,6 +89,8 @@ While we're not abridging trade secrets in this course -- all the platforms and 
 essentially open source -- the spirit of discovery, exploration, and adventure that characterizes early
 computing is what I hope to be the predominate impression you have of our work together this semester.
 
+### So, why a contract?
+
 The above defines the conditions in which I find it useful to challenge you to go _beyond_ strict course application, 
 but says nothing about why I choose to implement a labor-based contract in this course. Much of what the assignments 
 directly test through specifications defined through GatorGrader (our automated grading system) cover the basic knowledge. 
