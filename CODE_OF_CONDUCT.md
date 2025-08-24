@@ -136,7 +136,7 @@ This course uses the following framework<sup>†</sup> to identify the quality o
 | Non-reflective | A report of facts and other more-or-less obvious details of an assignment.                  |
 | Reflective     | Discusses constructive thoughts or feelings with relation to the material                   |
 | Reasoned       | Explains learner experience of the assignment (thoughts, feelings) with adequate evidence and examples to support claims |
-| Critical       | Sees and discusses alternatives (possible different directions, solutions) not pursued      |
+| Critical       | Sees and discusses alternatives (possible different directions, solutions) not pursued in contrast to directions chosen |
 | Insightful     | Describes new lessons, insights, and learning derived with regard to relationship to prior assignments   |
 
 All reflections will contain some level of each of these. However, for a reflection to recieve full credit, _the writing
@@ -228,16 +228,18 @@ and the _Compass_.
 #### Note about assignment completion
 
 This agreement operates on the understanding that circumstances may arise which interfere with completing assignments on time. 
-Should you need more time to complete work, arrange an assignment extension with the instructor.
+Should you need more time to complete work, you will need to use a `token`.
 
-#### Use of department "tokens"
+##### Use of department `token`s
 
-At the start of the semester, each student enrolled in the class owns three (3) "tokens." Tokens in this course serve the purpose
-of extending an assignment due date by a week. Use of a token _cannot_ apply to the course project. 
+At the start of the semester, each student enrolled in the class owns three (3) `token`s. `Token`s in this course serve the purpose
+of extending an assignment due date by a week. Use of a `token` _cannot_ apply to the course project. 
 
-Tokens must be used _proactively_, meaning that they must be used _in anticipation_ of a deadline rather than retroactively. For example, 
-if an assignment is due on a Sunday night, tokens must be used _before_ the due date to extend the upcoming deadline rather than "reopen"
+`Token`s must be used _proactively_, meaning that they must be used _in anticipation_ of a deadline rather than retroactively. For example, 
+if an assignment is due on a Sunday night, `token`s must be used _before_ the due date to extend the upcoming deadline rather than "reopen"
 an assignment's submission window.
+
+For more information, see the [CIS Department policy on `token`s](https://www.cis.allegheny.edu/teaching/policies/).
 
 #### Assignment "bugs" and impact on grading
 
@@ -253,7 +255,11 @@ In the Allegheny College Department of Computer and Information Science (CIS), s
 
 #### Preparedness
 
-Coming to class prepared means coming with everything you need to engage in a class session. To satisfy basic expectations of CIS courses, this means, at minimum, that students must:arrive at class with a fully charged laptop bring their laptop charger or a battery back so as to ensure that their laptop works throughout the entire class session complete any pre-session work such as readings and preparatory assignments
+Coming to class prepared means coming with everything you need to engage in a class session. To satisfy basic expectations of CIS courses, this means, at minimum, that students must:
+
+- arrive at class with a fully charged laptop
+- bring their laptop charger or a battery pack so as to ensure that their laptop works throughout the entire class session
+- complete any pre-session work such as readings and preparatory assignments
 
 #### Attendance and Being “On Time”
 
@@ -263,7 +269,8 @@ One missed class or lab session counts as one absence. Coming to class/lab late,
 
 **These accommodations are meant to cover illness and emergency, so you should always come to class if you are able to do so.**
 
-The exact number of permitted absences may vary by course. As a general guideline, students cannot miss more than two weeks of class in total throughout the academic semester without receiving a letter grade reduction. For your course’s attendance policy, see the individual course syllabus.
+This course follows the [CIS Department policy](https://www.cis.allegheny.edu/teaching/policies/), meaning that:
+> Students cannot miss more than two weeks of class in total throughout the academic semester without receiving a letter grade reduction.
 
 #### Engagement 
 
