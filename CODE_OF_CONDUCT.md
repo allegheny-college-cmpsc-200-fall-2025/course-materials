@@ -81,14 +81,14 @@ the "hack" to understand where my interest in evaluting this course derives.
 > a record of problematic behaviors by more than a few toxic figures in computational history.
 
 We come to our work in an era where "hacking" refers to malicious or nefarious work, but the essential
-meaning of the term doesn't entertain this idea as essentially evil; to early computer systems folks --
-many of whose names you know very well -- the desire to attain complete and total systems control and
+meaning of the term doesn't entertain this idea as essentially evil; to early computer systems folks—
+many of whose names you know very well—the desire to attain complete and total systems control and
 information was equal to an inalienable right. You've likely drawn a parallel between the above set
 of statements about systems to those that the discipline of computer science (at least in this department's
 view of it) holds sacred.
 
-While we're not abridging trade secrets in this course -- all the platforms and tools we're using are, 
-essentially open source -- the spirit of discovery, exploration, and adventure that characterizes early
+While we're not abridging trade secrets in this course—all the platforms and tools we're using are, 
+essentially open source—the spirit of discovery, exploration, and adventure that characterizes early
 computing is what I hope to be the predominate impression you have of our work together this semester.
 
 ### So, why a contract?
@@ -130,7 +130,7 @@ reflective writing must meet the standard defined below.
 All assignments require a form of reflective writing that this course calls "reflective reports." These feature a
 mixture of technical questions that also ask you to reflect on your experience in the context of what you're learning,
 and how you're learning the material (_not necessarily just how you feel about it_). Occasionally, these reports may ask you
-to speculate about how a concept fits with others. These reports may also require diagrams, which are non-negotiable --
+to speculate about how a concept fits with others. These reports may also require diagrams, which are non-negotiable—
 these diagrams must appear in order to recieve credit for the report.
 
 This course uses the following framework<sup>†</sup> to identify the quality of the writing you do:
@@ -194,7 +194,7 @@ Each of these circumstances results in a different outcome.
 
 #### `Incomplete` assignments or project
 
-`Incomplete`: more than 50% -- but less than 100% -- of GatorGrader criteria pass.
+`Incomplete`: more than 50%—but less than 100%—of GatorGrader criteria pass.
 
 ##### Assignments
 
@@ -307,7 +307,7 @@ On course platforms used for the duration of the semester:
 * Keeping "up-to-date" with platforms may require seeking additional extra-curricular knowledge
   * For example, using Markdown in Discord
 * Respect others' thoughts, time, and contributions to either discussion or code products
-* Check course platforms often -- at least twice a day
+* Check course platforms often—at least twice a day
   * The best times to review are often the beginning and ends of a day
     * i.e.: 8:00 (beginning), 18:00 (end)
 
