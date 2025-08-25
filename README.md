@@ -128,7 +128,7 @@ If you find yourself in difficult circumstances which affect your ability to par
 Do not wait until the end of the semester. Students who don't communicate issues often find themselves in preventable no-win situations. 
 
 *It is part of your instructor's job* to make sure that students receive the assistance they need. Do not hesitate to communicate anything your instructor can do 
-with respect to your ability to handle your work. This is especially true of our current circumstances. Again, be reminded -- __**it is part of your instructor's job**__ 
+with respect to your ability to handle your work. This is especially true of our current circumstances. Again, be reminded—__**it is part of your instructor's job**__ 
 to help you access Allegheny College resources that will enable your safety and success.
 
 In many situations, the following list of resources may help:
