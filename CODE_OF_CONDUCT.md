@@ -142,15 +142,14 @@ This course uses the following framework<sup>†</sup> to identify the quality o
 
 | Level          | Description                                                                                 | Value awarded |
 |:---------------|:--------------------------------------------------------------------------------------------|:--------------|
-| Non-reflective | A report of facts and other more-or-less obvious details of an assignment.                  | 20% |
-| Reflective     | Discusses constructive thoughts or feelings with relation to the material                   | 40 % |
-| Reasoned       | Explains learner experience of the assignment (thoughts, feelings) with adequate evidence and examples to support claims | 60% |
-| Critical       | Sees and discusses alternatives (possible different directions, solutions) not pursued in contrast to directions chosen | 80% |
-| Insightful     | Describes new lessons, insights, and learning derived with regard to relationship to prior assignments   | 100% |
+| Non-reflective | A report of facts and other more-or-less obvious details of an assignment.                  | `20%` of `Writing` assessment |
+| Reflective     | Discusses constructive thoughts or feelings with relation to the material                   | `60%` of `Writing` assessment |
+| Reasoned       | Explains learner experience of the assignment (thoughts, feelings) with adequate evidence and examples to support claims | `80%` of `Writing` assessment |
+| Critical       | Sees and discusses alternatives (possible different directions, solutions) not pursued in contrast to directions chosen | `90%` of `Writing` assessment |
+| Insightful     | Describes new lessons, insights, and learning derived with regard to relationship to prior assignments   | `100%` of `Writing` assessment |
 
-All reflections will contain some level of each of these. However, for a reflection to recieve full credit, _the writing
-must accomplish all of them_ and respond to _all_ questions. Responses to student reflective writing will rank a given
-assignment's documentation using the scale above, indicating the highest level of metacognitive writing achieved. 
+Responses to student reflective writing will rank a given assignment's documentation using the scale above, indicating the highest 
+level of metacognitive writing achieved. 
 
 <sup>†</sup> Developed from:
 > Alrashidi, Huda; Ullmann, Thomas; Ghounaim, Samiah and Joy, Mike (2020). A Framework for Assessing Reflective 
