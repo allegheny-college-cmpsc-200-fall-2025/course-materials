@@ -127,8 +127,8 @@ reflective writing must meet the standard defined below. Taken together, evaluat
 
 | Portion of assignment | Relative weight |
 |:----------------------|:----------------|
-| Technical achievement | 70% |
-| Writing               | 30% |
+| Technical achievement | `70%` |
+| Writing               | `30%` |
 
 #### Reports
 
@@ -177,12 +177,12 @@ The following table describes the letter grade a student can expect given labor 
 
 |Hacks awarded | Letter grade | 
 |:-------------|:-------------|
-| 6            | A            |
-| 5            | A-           |
-| 4            | B+           |
-| 3            | B            |
-| 2            | B-           |
-| 1            | C+           |
+| `6`            | `A`            |
+| `5`           | `A-`           |
+| `4`            | `B+`           |
+| `3`            | `B`            |
+| `2`            | `B-`           |
+| `1`           | `C+`           |
 
 To achieve credit for a given hack, all checks in the `hack` branch for a given assignment must be met.
 
