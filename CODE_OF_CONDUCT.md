@@ -123,7 +123,12 @@ above:
 > Working to achieve an average outcome is rewarded with average results. 
 
 To meet the basic requirements of an assignment, `100%` of the `Fundamentals` level of GatorGrade checks must pass and
-reflective writing must meet the standard defined below.
+reflective writing must meet the standard defined below. Taken together, evaluation of assignments follows this schedule:
+
+| Portion of assignment | Relative weight |
+|:----------------------|:----------------|
+| Technical achievement | 70% |
+| Writing               | 30% |
 
 #### Reports
 
@@ -135,17 +140,17 @@ these diagrams must appear in order to recieve credit for the report.
 
 This course uses the following framework<sup>†</sup> to identify the quality of the writing you do:
 
-| Level          | Description                                                                                 |
-|:---------------|:--------------------------------------------------------------------------------------------|
-| Non-reflective | A report of facts and other more-or-less obvious details of an assignment.                  |
-| Reflective     | Discusses constructive thoughts or feelings with relation to the material                   |
-| Reasoned       | Explains learner experience of the assignment (thoughts, feelings) with adequate evidence and examples to support claims |
-| Critical       | Sees and discusses alternatives (possible different directions, solutions) not pursued in contrast to directions chosen |
-| Insightful     | Describes new lessons, insights, and learning derived with regard to relationship to prior assignments   |
+| Level          | Description                                                                                 | Value awarded |
+|:---------------|:--------------------------------------------------------------------------------------------|:--------------|
+| Non-reflective | A report of facts and other more-or-less obvious details of an assignment.                  | 20% |
+| Reflective     | Discusses constructive thoughts or feelings with relation to the material                   | 40 % |
+| Reasoned       | Explains learner experience of the assignment (thoughts, feelings) with adequate evidence and examples to support claims | 60% |
+| Critical       | Sees and discusses alternatives (possible different directions, solutions) not pursued in contrast to directions chosen | 80% |
+| Insightful     | Describes new lessons, insights, and learning derived with regard to relationship to prior assignments   | 100% |
 
 All reflections will contain some level of each of these. However, for a reflection to recieve full credit, _the writing
 must accomplish all of them_ and respond to _all_ questions. Responses to student reflective writing will rank a given
-assignment's documentation using the scale above, indicating the highest level of metacognitive writing achieved.
+assignment's documentation using the scale above, indicating the highest level of metacognitive writing achieved. 
 
 <sup>†</sup> Developed from:
 > Alrashidi, Huda; Ullmann, Thomas; Ghounaim, Samiah and Joy, Mike (2020). A Framework for Assessing Reflective 
